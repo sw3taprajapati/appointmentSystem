@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/appointmentSystem.iml" filepath="$PROJECT_DIR$/appointmentSystem.iml" group="appointmentSystem" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/appointmentSystem_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/appointmentSystem_integrationTest.iml" group="appointmentSystem" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/appointmentSystem_main.iml" filepath="$PROJECT_DIR$/.idea/modules/appointmentSystem_main.iml" group="appointmentSystem" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/appointmentSystem_test.iml" filepath="$PROJECT_DIR$/.idea/modules/appointmentSystem_test.iml" group="appointmentSystem" />
+    </modules>
+  </component>
+</project>
